@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @TackyGaming6
-- 👀 I’m interested in Linux and repairing my linux
+- 👋 Hi, I’m @CoderTacky (Takshil Mistry)
+- 👀 I’m interested in Linux and and scrcpy repairing my linux
 - 🌱 I’m currently learning java batch bash
 - 💞️ I’m looking to collaborate on computers
 - 📫 How to reach me noreply.securegbot@gmail.com
